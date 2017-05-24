@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Toolkits.Redis</id>
+    <version>0.1.1</version>
+    <title>Toolkits.Redis</title>
+    <authors>wangan</authors>
+    <owners>wangan</owners>
+    <projectUrl>https://github.com/wangan/Toolkits.Redis</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Redis support</description>
+    <copyright>Copyright 2017</copyright>
+    <tags>Redis Toolkits Toolkits.Redis</tags>
+
+    <dependencies>
+      <dependency id="Toolkits" version="0.1.0" />
+      <dependency id="Toolkits.Log" version="0.1.0" />
+    </dependencies>
+  </metadata>
+</package>
